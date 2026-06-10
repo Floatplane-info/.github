@@ -3,6 +3,8 @@
 Floatplane search has been consistently bad for many years.
 This project aims to make a better search for Floatplane.
 
+More info is [on the site](https://floatplane.info/about)
+
 ## Repositories
 * [Floatplane-info](https://github.com/Floatplane-info/Floatplane.info) - The frontend / website.
 * [Sync](https://github.com/Floatplane-info/sync) - The [Cloudflare Worker](https://developers.cloudflare.com/workers/) that "syncs" floatplane posts to the [Typesense](https://typesense.org/) search server
